@@ -1,4 +1,4 @@
-package com.sparta.spring_auth.food;
+package com.sparta.spring_auth.auth.food;
 
 import org.springframework.beans.factory.annotation.Qualifier;
 import org.springframework.stereotype.Component;

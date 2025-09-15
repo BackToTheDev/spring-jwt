@@ -1,9 +1,8 @@
 package com.sparta.spring_auth;
 
-import com.sparta.spring_auth.food.Food;
+import com.sparta.spring_auth.auth.food.Food;
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;
-import org.junit.jupiter.params.shadow.com.univocity.parsers.annotations.FixedWidth;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.beans.factory.annotation.Qualifier;
 import org.springframework.boot.test.context.SpringBootTest;

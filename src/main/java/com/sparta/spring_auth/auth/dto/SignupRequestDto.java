@@ -1,4 +1,4 @@
-package com.sparta.spring_auth.dto;
+package com.sparta.spring_auth.auth.dto;
 
 import lombok.Getter;
 import lombok.Setter;
